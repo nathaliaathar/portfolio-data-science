@@ -1,66 +1,33 @@
+[![author](https://img.shields.io/badge/Author-Nathalia&nbsp;Aben&nbsp;Athar-6D28D9.svg)](https://www.linkedin.com/in/nathalia-aben-athar-897baa1a9)
+[![projects](https://img.shields.io/badge/Projects-1-4C1D95.svg)](#projects)
 
+# Data science portfolio
 
-<p align="center">
-  <strong>Senior Data Analyst · Business Analytics · Applied Machine Learning</strong>
-</p>
+I'm a Senior Data Analyst with five years in SaaS and cybersecurity, at Cato Networks, Similarweb, Cybersixgill, and IBM. I'm now studying Data Science and Agentic AI at Bar-Ilan University.
 
-<p align="center">
-  Tel Aviv, Israel · SQL & Python · Business thinking, backed by data
-</p>
+My projects start from a business question, not a dataset: who will cancel, what drives conversion, where revenue is at risk. Each one ends with something a team can act on, such as a ranked list, a recommendation, or a dashboard, and explains its choices in plain language.
 
----
+These are *some* of the tools used in the projects below:
 
-## Hello, I'm Nathalia
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![pandas](https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3670A0.svg?style=plastic&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=plastic&logo=streamlit&logoColor=white)
 
-I'm a **Senior Data Analyst with five years of experience in SaaS**, connecting business questions with statistical analysis, reliable data, and clear recommendations.
-
-My experience spans **Cato Networks, Similarweb, Cybersixgill, and IBM**, with a focus on commercial performance, revenue forecasting, customer segmentation, and the decisions behind business growth.
-
-I work across the analytics process: defining the question, preparing and validating data, building models and dashboards, and explaining what the results mean. I enjoy investigating the reasons behind a pattern and making complex findings useful to the people making decisions.
-
-I'm also deepening my practice in **Data Science and Agentic AI at Bar-Ilan University**, bringing my business experience into predictive modeling and machine learning.
-
-## Areas of focus
-
-- **Business & revenue analytics** — forecasting, funnel conversion, pricing, discount behavior, and sales performance.
-- **Statistics & machine learning** — exploratory analysis, hypothesis testing, regression, random forests, and model evaluation.
-- **Data modeling & business intelligence** — SQL transformations, dbt models, Snowflake datasets, and Tableau dashboards.
-- **Automation & data quality** — reliable metrics, automated validation, and reporting that reduces manual work.
-- **Communication** — translating analytical findings into clear recommendations for business and technical teams.
-
-## Tools & methods
-
-![Python](https://img.shields.io/badge/Python-54735E?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-54735E?style=flat)
-![pandas](https://img.shields.io/badge/pandas-54735E?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-54735E?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-54735E?style=flat&logo=scikitlearn&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-54735E?style=flat&logo=snowflake&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-54735E?style=flat&logo=dbt&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-54735E?style=flat)
-
-**Visualization:** Matplotlib · Seaborn · Plotly  
-**Workflow:** Git · Salesforce data · Excel / Google Sheets  
-**Statistical practice:** Confidence intervals · Hypothesis testing · Feature engineering · Model validation · Error analysis
+A complete list is in each project's README.
 
 ## Projects
 
-*add your projects here*
+- [Customer Churn Prediction in SaaS](https://github.com/nathaliaathar/customer-churn-prediction-in-saas)
+  > Ranks 100,000 subscribers by their risk of cancelling, explains why each one is on the list, and turns it into a weekly plan for a customer success team. Contacting the riskiest 20% reaches 52% of everyone who leaves, against 20% at random.
+  >
+  > **Skills:** imbalanced classification, model comparison, explainable logistic regression, Streamlit dashboard.
 
-## Education & ongoing learning
-
-**Data Scientist and Agentic AI Specialist** · Bar-Ilan University  
-In progress · 2026–2027
-
-**B.A. in Business Administration and Economics** · Reichman University  
-2021–2024
-
-**Languages:** Portuguese (native) · English, Spanish, and Hebrew (professional proficiency)
+  [![streamlit app](https://img.shields.io/badge/-Streamlit%20app-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://customer-churn-prediction-in-saas.streamlit.app/)
 
 ## Let's connect
 
-I'm interested in conversations about analytics, applied machine learning, and the business problems they can help solve.
-
-[![Email Nathalia](https://img.shields.io/badge/Email-54735E?style=flat&logo=gmail&logoColor=white)](mailto:nathaliaathar@hotmail.com)
-
-<!-- Add your LinkedIn or portfolio link here when you are ready. -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalia-aben-athar-897baa1a9)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathaliaathar@hotmail.com)
