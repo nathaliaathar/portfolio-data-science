@@ -26,6 +26,8 @@ A complete list is in each project's README.
   > **Skills:** imbalanced classification, model comparison, explainable logistic regression, Streamlit dashboard.
 
   [![streamlit app](https://img.shields.io/badge/-Streamlit%20app-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://customer-churn-prediction-in-saas.streamlit.app/)
+  [![code](https://img.shields.io/badge/-Code%20%26%20notebooks-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nathaliaathar/customer-churn-prediction-in-saas#readme)
+  [![article](https://img.shields.io/badge/-Read%20the%20article-6D28D9?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/nathaliaathar/customer-churn-prediction-in-saas/blob/main/reports/Article.md)
 
 ## Let's connect
 
