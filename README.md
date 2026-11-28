@@ -21,7 +21,7 @@ A complete list is in each project's README.
 ## Projects
 
 - [Customer Churn Prediction in SaaS](https://github.com/nathaliaathar/customer-churn-prediction-in-saas)
-  > Ranks 100,000 subscribers by their risk of cancelling, explains why each one is on the list, and turns it into a weekly plan for a customer success team. Contacting the riskiest 20% reaches 52% of everyone who leaves, against 20% at random.
+  > Ranks 100,000 subscribers by their risk of cancelling, explains why each one is on the list, and turns it into a weekly plan for a customer success team. Contacting the riskiest 20% reaches half of the customers who leave, against 20% at random.
   >
   > **Skills:** imbalanced classification, model comparison, explainable logistic regression, Streamlit dashboard.
 
